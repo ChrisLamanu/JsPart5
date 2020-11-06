@@ -17,3 +17,16 @@ function imageSwitch() {
         imgSwitch = true;
     }
 }
+
+// Correction
+//     const image = document.getElementById("imgContainer");
+
+//     image.onclick = function () {
+//         image.setAttribute("style", `background-image: url("assets/img/avengers-gameverse-marvel-626-iron-man-1-1596029401_0x460.jpg");`);
+//     }
+//     image.onmouseover = function () {
+//         image.setAttribute("style", "width: 40rem");
+//     }
+//     image.onmouseleave = function () {
+//         image.setAttribute("style", "width: 30rem");
+//     }
