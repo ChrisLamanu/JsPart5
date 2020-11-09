@@ -1,0 +1,9 @@
+body {
+    height: 100vh;
+    font-size: 1rem;
+    overflow: hidden;
+}
+.formContainer {
+    height: 50%;
+    width: 70%;
+}
